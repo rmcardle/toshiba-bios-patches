@@ -8,7 +8,7 @@ These patches have had very limited testing and are provided "as is". They may c
 
 * [toshiba-bios-tools-python](https://github.com/rmcardle/toshiba-bios-tools-python) &ndash; Python tools for reverse engineering and patching Toshiba BIOS files.
 * [toshiba-bios-tools-dos](https://github.com/rmcardle/toshiba-bios-tools-dos) &ndash; DOS tools for reverse engineering Toshiba BIOS code.
-* [toshiba-sp430c-disassembly](https://github.com/rmcardle/toshiba-sp430cdt-disassembly) &ndash; Partial disassembly of the BIOS code and related utilities for the Toshiba Satellite Pro 430C Series.
+* [toshiba-sp430c-disassembly](https://github.com/rmcardle/toshiba-sp430c-disassembly) &ndash; Partial disassembly of the BIOS code and related utilities for the Toshiba Satellite Pro 430C Series.
 
 ## Included Patches
 
