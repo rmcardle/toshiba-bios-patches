@@ -1,0 +1,21 @@
+These are the instructions to upgrade the Flash BIOS in your 110CS.
+
+(1) create a 720KB bootable DOS diskette.
+
+(2) copy CHGBIOS.EXE, BIOFCDDT.COM, and AUTOEXEC.BAT onto that diskette.
+
+(3) disable resume mode on the 110CS.
+
+(4) turn the 110CS off.
+
+(5) insert the diskette into the FDD.
+
+(6) hold down the 'F12' key.
+
+(7) turn the 110CS on.
+
+(8) CHGBIOSA will report the BIOS version in the 110CS, the version on the
+    diskette, and then ask if you wish to proceed.  Enter YES.
+
+(9) When CHGBIOSA is done, it will ask you to press the computer's reset button.
+    Don't forget to remove the diskette from the FDD, before you press reset.
